@@ -1,0 +1,88 @@
+# Validation Report - ev-road-trip-precautions
+
+Generated: 2026-06-02T15:38:22.147052
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner EV Road Trip Precautions
+- ✓ Article word count OK: Beginner EV Road Trip Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner EV Road Trip Precautions
+- ✓ Article word count OK: Beginner EV Road Trip Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner EV Road Trip Precautions
+- ✓ Article word count OK: Beginner EV Road Trip Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner EV Road Trip Precautions
+- ✓ Article word count OK: Common Mistakes in Beginner EV Road Trip Precautions
+- ✓ Article word count OK: Beginner EV Road Trip Precautions for Beginners
+- ✓ Article word count OK: Advanced Beginner EV Road Trip Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced EV Road Trip Precautions
+- ✓ Article word count OK: Advanced EV Road Trip Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced EV Road Trip Precautions
+- ✓ Article word count OK: Advanced EV Road Trip Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced EV Road Trip Precautions
+- ✓ Article word count OK: Advanced EV Road Trip Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced EV Road Trip Precautions
+- ✓ Article word count OK: Common Mistakes in Advanced EV Road Trip Precautions
+- ✓ Article word count OK: Advanced EV Road Trip Precautions for Beginners
+- ✓ Article word count OK: Advanced Advanced EV Road Trip Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to EV Road Trip Precautions Tips
+- ✓ Article word count OK: EV Road Trip Precautions Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding EV Road Trip Precautions Tips
+- ✓ Article word count OK: EV Road Trip Precautions Tips Tips and Best Practices
+- ✓ Article word count OK: The History of EV Road Trip Precautions Tips
+- ✓ Article word count OK: EV Road Trip Precautions Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of EV Road Trip Precautions Tips
+- ✓ Article word count OK: Common Mistakes in EV Road Trip Precautions Tips
+- ✓ Article word count OK: EV Road Trip Precautions Tips for Beginners
+- ✓ Article word count OK: Advanced EV Road Trip Precautions Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to EV Road Trip Precautions History
+- ✓ Article word count OK: EV Road Trip Precautions History: Everything You Need to Know
+- ✓ Article word count OK: Understanding EV Road Trip Precautions History
+- ✓ Article word count OK: EV Road Trip Precautions History Tips and Best Practices
+- ✓ Article word count OK: The History of EV Road Trip Precautions History
+- ✓ Article word count OK: EV Road Trip Precautions History in 2026: Current Trends
+- ✓ Article word count OK: Future of EV Road Trip Precautions History
+- ✓ Article word count OK: Common Mistakes in EV Road Trip Precautions History
+- ✓ Article word count OK: EV Road Trip Precautions History for Beginners
+- ✓ Article word count OK: Advanced EV Road Trip Precautions History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending EV Road Trip Precautions
+- ✓ Article word count OK: Trending EV Road Trip Precautions: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending EV Road Trip Precautions
+- ✓ Article word count OK: Trending EV Road Trip Precautions Tips and Best Practices
+- ✓ Article word count OK: The History of Trending EV Road Trip Precautions
+- ✓ Article word count OK: Trending EV Road Trip Precautions in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending EV Road Trip Precautions
+- ✓ Article word count OK: Common Mistakes in Trending EV Road Trip Precautions
+- ✓ Article word count OK: Trending EV Road Trip Precautions for Beginners
+- ✓ Article word count OK: Advanced Trending EV Road Trip Precautions Techniques
+- ✓ Article word count OK: The Ultimate Guide to EV Road Trip Precautions Tutorials
+- ✓ Article word count OK: EV Road Trip Precautions Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding EV Road Trip Precautions Tutorials
+- ✓ Article word count OK: EV Road Trip Precautions Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of EV Road Trip Precautions Tutorials
+- ✓ Article word count OK: EV Road Trip Precautions Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of EV Road Trip Precautions Tutorials
+- ✓ Article word count OK: Common Mistakes in EV Road Trip Precautions Tutorials
+- ✓ Article word count OK: EV Road Trip Precautions Tutorials for Beginners
+- ✓ Article word count OK: Advanced EV Road Trip Precautions Tutorials Techniques
+- ✓ Ad configuration validated
